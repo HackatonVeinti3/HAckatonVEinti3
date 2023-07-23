@@ -1,4 +1,9 @@
-### Hi there 👋
+### <h1 align="center"> Grupo 7 </h1>
+<h4 align="center">
+:construction: :hammer:Funcionalidades del proyecto
+
+- `Funcionalidad 1`: Desarrollo web 1- `Funcionalidad 2`: Análisis de datos 2- `Funcionalidad 2a`: Usuarios | Recorridos- `Funcionalidad 3`: Hackatlon #Grupo7 3 :construction:
+</h4>
 
 <!--
 **HackatonVeinti3/HAckatonVEinti3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
